@@ -1,8 +1,0 @@
-c:\users\валерий\documents\visual studio 2013\Projects\CardBoard2\CardBoard2\bin\Debug\CardBoard2.exe
-c:\users\валерий\documents\visual studio 2013\Projects\CardBoard2\CardBoard2\bin\Debug\CardBoard2.pdb
-c:\users\валерий\documents\visual studio 2013\Projects\CardBoard2\CardBoard2\obj\Debug\CardBoard2.csprojResolveAssemblyReference.cache
-c:\users\валерий\documents\visual studio 2013\Projects\CardBoard2\CardBoard2\obj\Debug\CardBoard2.Form1.resources
-c:\users\валерий\documents\visual studio 2013\Projects\CardBoard2\CardBoard2\obj\Debug\CardBoard2.Properties.Resources.resources
-c:\users\валерий\documents\visual studio 2013\Projects\CardBoard2\CardBoard2\obj\Debug\CardBoard2.csproj.GenerateResource.Cache
-c:\users\валерий\documents\visual studio 2013\Projects\CardBoard2\CardBoard2\obj\Debug\CardBoard2.exe
-c:\users\валерий\documents\visual studio 2013\Projects\CardBoard2\CardBoard2\obj\Debug\CardBoard2.pdb
